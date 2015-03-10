@@ -1,0 +1,18 @@
+ideas
+	- strawberry fare 
+
+what the website gon have
+	-static website
+	-maybe jQuery plug in for menu
+	-responsive
+	-design
+
+target audience
+	-middle class
+	-between 30-40
+	-the girls
+	-yummy mummies
+
+design
+	-gill sans light
+
