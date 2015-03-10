@@ -1,0 +1,112 @@
+[
+	{
+		"name":"TIRAMISU",
+		"description":"The classic Italian dessert. Savoiardi fingers soaked in marsala and espresso, layered with mascarpone. Yum!",
+		"price":"$16.50"
+	},
+	{
+		"name":"DEVILS DREAM CAKE ",
+		"description":"Soft layers of white and dark chocolate laced with raspberries – really wicked and scores 10 on the richness scale.",
+		"price":"$18.00"
+	},
+	{
+		"name":"SUCCULENT SORBETS",
+		"description":"A selection of refreshing mouth-watering sorbets made on the premises, served in a tuille basket.",
+		"price":"$14.50"
+	},
+	{
+		"name":"STICKY DATE PUDDING",
+		"description":"A traditional favourite, scented with cinnamon, nutmeg and clove served warm with vanilla ice cream and butterscotch sauce.",
+		"price":"$16.50"
+	},
+	{
+		"name":"WARM RASPBERRY DRENCHED CHOCOLATE CAKE ",
+		"description":"A traditional French recipe, so moist it resembles a sunken souffle An intriguing mixture of raspberries and chocolate served warm with vanilla ice cream."	,
+		"price":"$4.70"
+	},
+	{
+		"name":"THE FAMOUS NZ PAVLOVA ",
+		"description":"A honey biscuit base filled with caramel and topped with freshly cut bananas, chocolate sauce and whipped cream.",
+		"price":"$15.50"
+	},
+	{
+		"name":"BANAFFI PIE",
+		"description":"Blend of apple, orange, apricot, banana & spirulina."	,
+		"price":"$19.50"
+	},
+	{
+		"name":"CARAMEL AND HAZELNUT TORTE",
+		"description":"A hazelnut top with a gooey caramel middle and sweet pastry bottom served warm with vanilla ice cream."	,
+		"price":"$16.50"
+	},
+	{
+		"name":"CRÈME BRULEE",
+		"description":"Baked vanilla bean custard served the traditional French way with caramelised sugar."	,
+		"price":"$16.50"
+	},
+	{
+		"name":"CHOCOLATE MADNESS",
+		"description":"A delicious assortment of chocolate delights – a must for chocolate lovers!"	,
+		"price":"$19.50"
+	},
+	{
+		"name":"CHOCOLATE AND ENGLISH TOFFEE PUDDING",
+		"description":"Chocolate brioche and soft English toffee baked together to perfection, served with creme anglaise and vanilla ice cream."	,
+		"price":"$17.00"
+	},
+	{
+		"name":"VERY BERRY",
+		"description":"An amazing assortment of berry treats. Cranberry cheesecake, black berry and crème brulee, boysenberry sorbet, blueberry friand and raspberry coulis – berrylicious!"	,
+		"price":"$19.50"
+	},
+	{
+		"name":"BLACK FOREST TOWER ",
+		"description":"Layers of cherry, black berry and chocolate mousse encased in a chocolate wrap. New design on an old Kiwi Delight."	,
+		"price":"$18.50"
+	},
+	{
+		"name":"LEMON CHOCOLATE CHEESECAKE",
+		"description":"Baked lemon cheesecake sandwiched between two rich chocolate layers. A favourite."	,
+		"price":"$16.00"
+	},
+	{
+		"name":"BAKED CRANBERRY CHEESECAKE ",
+		"description":"A classic German style cheesecake with cranberry and white chocolate."	,
+		"price":"$16.00"
+	},
+	{
+		"name":"LEMON MERINGUE ROULADE",
+		"description":"A creamy light lemon filling in a soft meringue, rolled in toasted coconut."	,
+		"price":"$14.50"
+	},
+	{
+		"name":"WARM CHOCOLATE AND ENGLISH TOFFEE PUDDING",
+		"description":"Chocolate brioche and soft English toffee baked together to perfection, served with crème anglaise and vanilla ice cream."	,
+		"price":"$17.50"
+	},
+	{
+		 "name":"TRIO OF ICE CREAMS ",
+		 "description":"Choose THREE of our delicious ice creams, made on the premises – chocolate, cookies ‘n coffee, honey hokey pokey, maple & walnut, passionfruit or licorice. Served to you in a sweet tuille biscuit basket.",
+		 "price":"$14.50"
+	},
+	{
+		"name":"TRIPLE CHOCOLATE BROWNIE",
+		"description":"elicious and full of white and dark chocolate, served warm with chocolate sauce and vanilla ice cream."	,
+		"price":"$11.50"
+	},
+	{
+		"name":"FRESH FRUIT BOWL",
+		"description":"Fresh seasonal fruit served with chocolate sauce and yoghurt."	,
+		"price":"$15.50"
+	},
+	{
+		"name":"CHEESE PLATTER ",
+		"description":"Don’t have a sweet tooth try something savoury for dessert. Blue, Brie and aged Cheddar, served with crackers and red pepper relish."	,
+		"price":"$19.00"
+	},
+	{
+		"name":"KIDS ICE CREAM",
+		"description":"2 scoops of ice cream with chocolate sauce & cream…"	,
+		"price":"Chocolate: $8.00, Vanilla: $5.50"
+	}
+]

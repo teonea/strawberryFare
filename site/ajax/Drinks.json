@@ -1,0 +1,102 @@
+[
+	{
+		"name":"Orange Blossom Kiss",
+		"description":"A delicious summery mixture of sparkling white wine, orange juice and cherry brandy.",
+		"price":"$8.00"
+	},
+	{
+		"name":"Peach Schnapps Cocktail",
+		"description":"Lindauer, peach schnapps and a strawberry.",
+		"price":"$8.50"
+	},
+	{
+		"name":"Kir Royale",
+		"description":"Lindauer and cassis, blackcurrant and bubbles! The perfect aperitif.",
+		"price":"$8.50"
+	},
+	{
+		"name":"Lindauer Fraise",
+		"description":"Lindauer and strawberry in the 200ml Piccolo size.",
+		"price":"$8.50"
+	},
+	{
+		"name":"Sea Breeze",
+		"description":"A refreshing combination of vodka and cranberry with a splash of grapefruit juice."	,
+		"price":"$4.70"
+	},
+	{
+		"name":"Freshly squeezed Juice",
+		"description":"Freshly Squeezed Orange Juice or Grapefruit"	,
+		"price":"$4.70"
+	},
+	{
+		"name":"Viva Spirulina",
+		"description":"Blend of apple, orange, apricot, banana & spirulina."	,
+		"price":"$19.50"
+	},
+	{
+		"name":"Juice",
+		"description":"Cranberry, Pineapple, Tomato or Apple Juice"	,
+		"price":"$3.50"
+	},
+	{
+		"name":"Soda",
+		"description":"Coca-Cola, Lemonade or Diet Coke"	,
+		"price":"$3.50"
+	},
+	{
+		"name":"Ginger Beer",
+		"description":"San Pelligreno Sparkling Mineral Water."	,
+		"price":"$3.50"
+	},
+	{
+		"name":"Iced Coffee or Iced Chocolate",
+		"description":"Served with ice cream and cream."	,
+		"price":"$5.50"
+	},
+	{
+		"name":"Beers",
+		"description":"Monteiths Golden Lager, Original Ale, Black, Celtic Red, Amstell Light Lager"	,
+		"price":"$7.00 (Heineken, Stella or Grolsh $7.50)"
+	},
+	{
+		"name":"Spirits",
+		"description":"Vodka, Gin, Bourbon, Rum, Bacardi or Brandy Served with your choice of mixer."	,
+		"price":"$7.00"
+	},
+	{
+		"name":"Mixers",
+		"description":"Pykes Tawny Port or Robard and Butler Artillery Port"	,
+		"price":"$3.00"
+	},
+	{
+		"name":"Port",
+		"description":"Served with ice cream and cream."	,
+		"price":"Pykes: $7.50, Robard $8.50"
+	},
+	{
+		"name":"Black and Flat Coffee",
+		"description":"Plunger Coffee, Long or Short Black Espresso, Flat White"	,
+		"price":"$4.20"
+	},
+	{
+		"name":"Fluffy Coffee",
+		"description":"Latte Cup or Cappuccino"	,
+		"price":"$4.70"
+	},
+	{
+		 "name":"Sweet Coffees",
+		 "description":"Latte Bowl or Mochachino or Hot Chocolate",
+		 "price":"$5.20"
+	},
+	{
+		"name":"Double Liqueured Coffee",
+		"description":"Choose from Gailliano, Tia Maria, Kahlua, Baileys, Drambuie or Jameson’s Irish Whisky."	,
+		"price":"$11.00"
+	},
+	{
+		"name":"Pot of Tea",
+		"description":"Choice of English Breakfast, Earl Grey, Blackcurrant, Chamomile, Peppermint, Lemon Zinger or Red Zinger or Green Tea."	,
+		"price":"$4.20"
+	}
+]

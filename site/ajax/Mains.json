@@ -1,0 +1,17 @@
+[
+	{
+		"name":"Porterhouse Steak",
+		"description":"Served medium rare with potato rosti, Portobello mushroom, blue cheese, horseradish cream and port jus. (gf)",
+		"price":"$29.50"
+	},
+	{
+		"name":"Lamb Shank",
+		"description":"With a rich puttanesca sauce, potato mash and honey glazed carrots. (gf)"	,
+		"price":"$28.50"
+	},
+	{
+	"name":"Chicken Breast",
+	"description":"Pan seared then roasted served with sweet corn puree, potato gnocchi and toasted grana padano.",
+	"price":"$28.50"
+	}
+]

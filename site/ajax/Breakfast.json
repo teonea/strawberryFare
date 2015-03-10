@@ -1,0 +1,57 @@
+[
+	{
+		"name":"Toasted Muesli",
+		"description":"Served with fruit and yoghurt.",
+		"price":"$9.00"
+	},
+	{
+		"name":"Fresh Fruit Bowl",
+		"description":"Fresh seasonal fruit served with your yoghurt."	,
+		"price":"$15.00"
+	},
+	{
+		"name":"French Toast",
+		"description":"Served with cinnamon sugar, streaky bacon, banana and maple syrup.",
+		"price":"$15.00"
+	},
+	{
+		"name":"Pancakes",
+		"description":"Laced with maple syrup, berry compote and cream.",
+		"price":"$15.00"
+	},
+	{
+		"name":"Eggs Benedict",
+		"description":"Poached eggs and streaky bacon served on English muffins with lemon hollandaise."	,
+		"price":"$14.50"
+	},
+	{
+		"name":"B.E.T",
+		"description":"Streaky bacon, two fried eggs and tomatoes on toast."	,
+		"price":"$13.50"
+	},
+	{
+		"name":"Sweet Corn Fritters",
+		"description":"With streaky bacon, roast tomatoes and red pepper relish."	,
+		"price":"$15.00"
+	},
+	{
+		"name":"The Big Breakfast",
+		"description":"Streaky bacon, two eggs, tomato, Portobello mushroom, black pudding, hash brown and kransky sausages on toast."	,
+		"price":"$18.50"
+	},
+	{
+		"name":"Omelette ",
+		"description":"Choice of two fillings: bacon, tomato, cheese, mushroom or sausage served with toast."	,
+		"price":"$14.50"
+	},
+	{
+		"name":"Toast or English Muffins",
+		"description":"Served with butter and berry jam."	,
+		"price":"$6.00"
+	},
+	{
+		"name":"Sides",
+		"description":"As an extra to any breakfast add hash brown, tomatoes, mushrooms, streaky bacon, black pudding kransky sausages or French toast."	,
+		"price":"$3.00"
+	}
+]

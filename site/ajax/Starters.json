@@ -1,0 +1,57 @@
+[
+	{
+		"name":"Garlic bread",
+		"description":"Our home-made bread with a generous serving of garlic butter.",
+		"price":"$5.50"
+	},
+	{
+		"name":"Bread  and Dip",
+		"description":"Fresh bread with a Trio of spreads"	,
+		"price":"$9.50"
+	},
+	{
+		"name":"Soup",
+		"description":"Soup of the day served with fresh bread.",
+		"price":"$9.50"
+	},
+	{
+		"name":"Beetroot Salad",
+		"description":"Beetroot Salad roasted beetroot, red onion, toasted walnuts, Danish feta and balsamic dressing. (v).",
+		"price":"$17.50"
+	},
+	{
+		"name":"Warm Pumpkin Salad",
+		"description":"Roasted pumpkin, honey cured streaky bacon, pumpkin seed, marinated feta and a rosemary dressing."	,
+		"price":"$17.00"
+	},
+	{
+		"name":"Chicken and Mushroom Pasta ",
+		"description":"A delicious mix of salad greens, smoked chicken, avocado, banana, tomato, kumara and spring onion dressed with our famous basil vinaigrette."	,
+		"price":"$18.00"
+	},
+	{
+		"name":"Bangers & Mash",
+		"description":"Served on a bed of lettuce with coleslaw."	,
+		"price":"$19.50"
+	},
+	{
+		"name":"Smoked Chicken, Cranberry and Brie Filo",
+		"description":"Streaky bacon, two eggs, tomato, Portobello mushroom, black pudding, hash brown and kransky sausages on toast."	,
+		"price":"$18.50"
+	},
+	{
+		"name":"Beef Burgundy",
+		"description":"With button mushroom, baby onions and streaky bacon served on potato mash."	,
+		"price":"$20.50"
+	},
+	{
+		"name":"Fries",
+		"description":"Served with tomato sauce"	,
+		"price":"$6.50"
+	},
+	{
+		"name":"Greek salad",
+		"description":"Also available as a garden salad."	,
+		"price":"$6.50"
+	}
+]
