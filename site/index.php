@@ -10,9 +10,9 @@
 
 	<?php
 		include('pages/landing.php'); //Ian
-		include('pages/contact.php'); //Hannah
-		include('pages/menu.php'); //Jake
 		include('pages/about.php'); //Cilla
+		include('pages/menu.php'); //Jake
+		include('pages/contact.php'); //Hannah
 	?>
 
 </body>
