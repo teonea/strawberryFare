@@ -1,3 +1,4 @@
+
 <div id="home01">
 	<nav class="nav-collapse">
 	  <ul>
@@ -8,3 +9,6 @@
 	  </ul>
 	</nav>
 </div>
+
+<a href="#" class="scrollToTop">Scroll To Top</a>
+
