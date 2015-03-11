@@ -42,14 +42,13 @@
 		include('pages/contact.php'); //Hannah
 	?>
 
-<script src="js/smoothScroll.js"></script>
-<script src="js/responsive-nav.js"></script>
+<script type="text/javascript" src="js/smoothScroll.js"></script>
+<script type="text/javascript" src="js/responsive-nav.js"></script>
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCXKnJ21plLH05VREvnz5lEPSW1JE5gigM&amp;sensor=false"></script>
-<script src="js/main.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript" src="js/menuAjax.js"></script>
 <script type="text/javascript" src="js/keyNavigation.js"></script>
-<script src="js/responsive-nav.js"></script>
 <script type="text/javascript" src="js/scrollToTop.js"></script>
 </body>
 </html>

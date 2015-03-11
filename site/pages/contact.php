@@ -1,4 +1,4 @@
-<div id="contact04">
+<div id="04" class='scrollLink'>
     <h1>Get in Touch</h1>
     <h2>Wellington</h2>
     <ul>
