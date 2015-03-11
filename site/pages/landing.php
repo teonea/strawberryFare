@@ -1,10 +1,11 @@
+<div id="page_landing" class="page">
 <nav class="nav-collapse">
   <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Menu</a></li>
-    <li><a href="#">About</a></li>
-    <li><a href="#">Contact</a></li>
+    <li><a href="#page_landing">Home</a></li>
+    <li><a href="#page_menu">Menu</a></li>
+    <li><a href="#page_about">About</a></li>
+    <li><a href="#page_contact">Contact</a></li>
   </ul>
 </nav>
-
-<script src="js/responsive-nav.js"></script>
+</div>
+<script src="js/responsive-nav.js"></script>#

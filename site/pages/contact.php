@@ -1,3 +1,4 @@
+<div id="page_contact" class="page">
 <h1>Get in Touch</h1>
 <h2>Wellington</h2>
 <ul>
@@ -17,6 +18,6 @@
     <li>Mon - Fri 7am - late</li>
     <li>Sat &amp; Sun 8.30am - late</li>
 </ul>
-
+</div>
 <div id="map-canvas"></div>
 
