@@ -1,4 +1,4 @@
-<div id="03" class='scrollLink'>
+<div id="03">
 	<div>
 		<h1>Menu</h1>
 			<button value="Breakfast">Breakfast</button>

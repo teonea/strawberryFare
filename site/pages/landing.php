@@ -1,14 +1,13 @@
-
-<div id="home01" class='scrollLink'>
+<div id="01">
 	<nav class="nav-collapse">
 	  <ul>
-	    <li><a class='scrollLink' href="#01">Home</a></li>
-	    <li><a class='scrollLink' href="#02">About</a></li>
-	    <li><a class='scrollLink' href="#03">Menu</a></li>	    
-	    <li><a class='scrollLink' href="#04">Contact</a></li>
+	    <li><a href="#01">Home</a></li>
+	    <li><a href="#02">About</a></li>
+	    <li><a href="#03">Menu</a></li>
+	    <li><a href="#04">Contact</a></li>
 	  </ul>
 	</nav>
 </div>
 
-<a href="#" class="scrollToTop">Scroll To Top</a>
+<a href="#01" class="scrollToTop">Scroll To Top</a>
 
