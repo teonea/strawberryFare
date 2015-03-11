@@ -16,6 +16,7 @@ $(document).ready(function(){
             $newAnchor = $anchorNum + 1;
         };
         if ($newAnchor <= 9) {$newAnchor = "0"+$newAnchor}; /*if the anchor is equal or smaller than 10, need to add zero for keeping two units*/
+        if ($newAnchor > 4) {$newAnchor = "00"}
         window.location.replace($urlNoAnchor + $newAnchor); /*Finally, redirect to the next or previous anchor*/
     };
 

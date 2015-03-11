@@ -3,8 +3,8 @@
 <head>
 	<style>
 	#map-canvas{
-		width:400px;
-		height:400px;
+		width:100%;
+		height:500px;
 	}
 	.scrollToTop{
 		width:100px; 
@@ -27,12 +27,13 @@
 	</style>
 	<title>Strawberry Fare</title>
 	<meta charset="utf-8" />
-	<meta type="description" content="Strawberry Fare is New Zealand's number one dessert restaurant" />
-	<meta type="keywords" content="Strawberry, Fare, New Zealand, dessert, restaurant" />
+	<meta name="description" content="Strawberry Fare is New Zealand's number one dessert restaurant" />
+	<meta name="keywords" content="Strawberry, Fare, New Zealand, dessert, restaurant" />
 	<link rel="stylesheet" type="text/css" href="css/responsive-nav.css">
 	<link rel="stylesheet" type="text/css" href="css/responsive-styles.css">
 	<link href="css/demo.css" rel="stylesheet" type="text/css">
 </head>
+
 <body>
 
 	<?php
@@ -42,14 +43,15 @@
 		include('pages/contact.php'); //Hannah
 	?>
 
-<script src="js/smoothScroll.js"></script>
-<script src="js/responsive-nav.js"></script>
-<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCXKnJ21plLH05VREvnz5lEPSW1JE5gigM&amp;sensor=false"></script>
-<script src="js/main.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script type="text/javascript" src="js/menuAjax.js"></script>
-<script type="text/javascript" src="js/keyNavigation.js"></script>
-<script src="js/responsive-nav.js"></script>
-<script type="text/javascript" src="js/scrollToTop.js"></script>
+	
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCXKnJ21plLH05VREvnz5lEPSW1JE5gigM&amp;sensor=false"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script src="js/main.js"></script>
+	<script src="js/smoothScroll.js"></script>
+	<script src="js/responsive-nav.js"></script>
+	<script src="js/menuAjax.js"></script>
+	<script src="js/keyNavigation.js"></script>
+	<script src="js/scrollToTop.js"></script>
+
 </body>
 </html>
