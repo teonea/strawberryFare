@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<style>
+	#map-canvas{
+		width:400px;
+		height:400px;
+	}
+	</style>
 	<title>Strawberry Fare</title>
 	<meta charset="utf-8" />
 	<meta type="description" content="Strawberry Fare is New Zealand's number one dessert restaurant" />
@@ -17,5 +23,9 @@
 		include('pages/contact.php'); //Hannah
 	?>
 
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCXKnJ21plLH05VREvnz5lEPSW1JE5gigM&amp;sensor=false"></script>
+<script src="js/main.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script type="text/javascript" src="js/menuAjax.js"></script>
 </body>
 </html>
