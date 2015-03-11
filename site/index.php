@@ -16,8 +16,8 @@
 		color: #444;
 		text-decoration: none;
 		position:fixed;
-		top:75px;
-		right:40px;
+		top:30px;
+		right:20px;
 		display:none;
 		background: url('arrow_up.png') no-repeat 0px 20px;
 	}

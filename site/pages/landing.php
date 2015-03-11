@@ -8,5 +8,3 @@
 </nav>
 
 <a href="#" class="scrollToTop">Scroll To Top</a>
-
-<script src="js/responsive-nav.js"></script>
