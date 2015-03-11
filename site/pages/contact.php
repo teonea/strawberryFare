@@ -1,5 +1,5 @@
-
-<div id="04">
+<a id="04"></a>
+<div id="page_contact" class="page">
     <h1>Get in Touch</h1>
     <h2>Wellington</h2>
     <ul>

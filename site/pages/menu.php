@@ -1,4 +1,5 @@
-<div id="03">
+<a id="03"></a>
+<div id="page_menu" class="page">
 	<div>
 		<h1>Menu</h1>
 			<button value="Breakfast">Breakfast</button>
