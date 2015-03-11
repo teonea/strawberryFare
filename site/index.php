@@ -6,6 +6,24 @@
 		width:400px;
 		height:400px;
 	}
+	.scrollToTop{
+		width:100px; 
+		height:130px;
+		padding:10px; 
+		text-align:center; 
+		background: whiteSmoke;
+		font-weight: bold;
+		color: #444;
+		text-decoration: none;
+		position:fixed;
+		top:75px;
+		right:40px;
+		display:none;
+		background: url('arrow_up.png') no-repeat 0px 20px;
+	}
+	.scrollToTop:hover{
+		text-decoration:none;
+	}
 	</style>
 	<title>Strawberry Fare</title>
 	<meta charset="utf-8" />
@@ -28,5 +46,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script type="text/javascript" src="js/menuAjax.js"></script>
 <script type="text/javascript" src="js/keyNavigation.js"></script>
+<script src="js/responsive-nav.js"></script>
+<script type="text/javascript" src="js/scrollToTop.js"></script>
 </body>
 </html>
