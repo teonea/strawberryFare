@@ -5,9 +5,9 @@
 	<meta charset="utf-8" />
 	<meta name="description" content="Strawberry Fare is New Zealand's number one dessert restaurant" />
 	<meta name="keywords" content="Strawberry, Fare, New Zealand, dessert, restaurant" />
-	<link rel="stylesheet" type="text/css" href="css/responsive-nav.css">
-	<link rel="stylesheet" type="text/css" href="css/responsive-styles.css">
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="stylesheet" href="css/responsive-nav.css">
+	<link rel="stylesheet" href="css/responsive-styles.css">
+	<link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
