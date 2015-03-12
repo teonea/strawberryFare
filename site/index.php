@@ -1,37 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<style>
-	#map-canvas{
-		width:100%;
-		height:500px;
-	}
-	.scrollToTop{
-		width:100px; 
-		height:130px;
-		padding:10px; 
-		text-align:center; 
-		background: whiteSmoke;
-		font-weight: bold;
-		color: #444;
-		text-decoration: none;
-		position:fixed;
-		top:30px;
-		right:20px;
-		display:none;
-		background: url('arrow_up.png') no-repeat 0px 20px;
-	}
-	.scrollToTop:hover{
-		text-decoration:none;
-	}
-	</style>
 	<title>Strawberry Fare</title>
 	<meta charset="utf-8" />
 	<meta name="description" content="Strawberry Fare is New Zealand's number one dessert restaurant" />
 	<meta name="keywords" content="Strawberry, Fare, New Zealand, dessert, restaurant" />
 	<link rel="stylesheet" type="text/css" href="css/responsive-nav.css">
 	<link rel="stylesheet" type="text/css" href="css/responsive-styles.css">
-	<link href="css/demo.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 
 <body>

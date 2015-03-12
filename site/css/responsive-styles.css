@@ -25,7 +25,6 @@ body {
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
   color: #37302a;
-  background: #fff;
   font: normal 100%/1.4 sans-serif;
 }
 
@@ -80,7 +79,6 @@ section {
   color: #fff;
   text-decoration: none;
   width: 100%;
-  background: #f4421a;
   border-bottom: 1px solid white;
   padding: 0.7em 1em;
   float: left;
@@ -143,7 +141,7 @@ section {
 }
 
 .nav-toggle:before {
-  color: #f4421a; /* Edit this to change the icon color */
+  color: #e74c3c; /* Edit this to change the icon color */
   font-family: "responsivenav", sans-serif;
   font-style: normal;
   font-weight: normal;

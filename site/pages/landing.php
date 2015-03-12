@@ -1,4 +1,6 @@
-<div id="01">
+<a href="#01" class="scrollToTop">Scroll To Top</a>
+<a id="01"></a>
+<div id="page_landing" class="page">
 	<nav class="nav-collapse">
 	  <ul>
 	    <li><a href="#01">Home</a></li>
@@ -8,6 +10,4 @@
 	  </ul>
 	</nav>
 </div>
-
-<a href="#01" class="scrollToTop">Scroll To Top</a>
 
