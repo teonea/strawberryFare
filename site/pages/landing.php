@@ -1,4 +1,6 @@
-<div id="01">
+
+<a id="01"></a>
+<div id="page_landing" class="page">
 	<nav class="nav-collapse">
 	  <ul>
 	    <li><a href="#01">Home</a></li>
