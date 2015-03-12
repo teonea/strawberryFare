@@ -18,7 +18,6 @@
 		include('pages/menu.php'); //Jake
 		include('pages/contact.php'); //Hannah
 	?>
-
 	
 	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCXKnJ21plLH05VREvnz5lEPSW1JE5gigM&amp;sensor=false"></script>
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
