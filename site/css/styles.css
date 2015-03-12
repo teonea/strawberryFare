@@ -37,3 +37,26 @@ body{
 .scrollToTop:hover{
 	text-decoration:none;
 }
+
+#page_contact {
+	background-image: url("../img/straw1small.jpg");
+}
+
+#page_contact h1,#page_contact li,#page_contact h2 {
+	color: #fff;
+}
+
+#page_contact h2:first-child {
+	padding-top: 120px;
+}
+
+#page_contact ul {
+	padding-left: 0;
+	float: left;
+	width: 40%;
+}
+
+#page_contact li {
+	text-decoration: none;
+	list-style-type: none;
+}
