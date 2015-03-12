@@ -3,6 +3,7 @@
 <head>
 	<title>Strawberry Fare</title>
 	<meta charset="utf-8" />
+
 	<meta name="description" content="Strawberry Fare is New Zealand's number one dessert restaurant" />
 	<meta name="keywords" content="Strawberry, Fare, New Zealand, dessert, restaurant" />
 	<link rel="stylesheet" type="text/css" href="css/responsive-nav.css">

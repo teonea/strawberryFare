@@ -19,6 +19,5 @@
         <li>Mon - Fri 7am - late</li>
         <li>Sat &amp; Sun 8.30am - late</li>
     </ul>
-
     <div id="map-canvas"></div>
 </div>
