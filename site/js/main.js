@@ -1,8 +1,9 @@
 function initialize() {
   var mapOptions = {
     zoom: 6,
-    center: new google.maps.LatLng(-42.342305, 173.803711)
-  }
+    center: new google.maps.LatLng(-42.342305, 173.803711),
+    styles: [{"featureType": "road","elementType": "geometry","stylers": [{"color": "#b1ab85"}]},{"featureType": "water","elementType": "geometry","stylers": [{"color": "#8cc0c3"}]},{"featureType": "poi.park","elementType": "geometry","stylers": [{"color": "#cde6cf"}]},{"featureType": "landscape.man_made","elementType": "geometry","stylers": [{"color": "#efede8"}]}]
+    }
   var map = new google.maps.Map(document.getElementById('map-canvas'),
     mapOptions);
   setMarkers(map, markers);
@@ -32,10 +33,10 @@ function setMarkers(map, locations) {
         icon: image
     });
       google.maps.event.addListener(marker, 'click', function() {
-      map.setZoom(14);
-      map.setCenter(marker.getPosition());
-    });
-      
+      map.panTo(this.getPosition());
+      map.setZoom(map.getZoom() + 7);
+      map.setCenter(this.getPosition());
+      });
   }
 }
 
