@@ -20,7 +20,42 @@ body {
 
 img {right:15%; position: absolute; width:70%; height: auto;}
 
+
 a{text-decoration: none}
+
+/*.scrollToTop{
+	width:100px; 
+	height:130px;
+	padding:10px; 
+	text-align:center; 
+	background: whiteSmoke;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	position:fixed;
+	top:30px;
+	right:20px;
+	display:none;
+	background: url('arrow_up.png') no-repeat 0px 20px;
+}
+
+.scrollToTop:hover{
+	text-decoration:none;
+}
+
+#map-canvas{
+	width:100%;
+	height:500px;
+}
+
+
+#page_landing {
+  background-image: url(../img/backgrounds/landing-2.jpg);
+  background-size: cover;
+  height: 900px;
+  font-family: 'Roboto', sans-serif;
+}*/
+
 
 h1 {width:70%;text-align: center; padding-top: 5%; padding-bottom:5%; margin: 0 auto; font-weight: 700; font-family: 'Roboto';}
 
@@ -42,7 +77,49 @@ button { border: none; background-color: transparent; font-style:italic; font-fa
 
 #page_about  p, #page_about h2 {width: 70%; text-align: justify; margin: 0 auto;}
 
+/*.nav-toggle {
+  position: fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  text-decoration: none;
+  text-indent: -999px;
+  position: relative;
+  overflow: hidden;
+  width: 70px;
+  height: 55px;
+  float: right;
+}
 
+.nav-toggle:before {
+  color: white;  Edit this to change the icon color 
+  font-family: "responsivenav", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  font-size: 60px;
+  text-transform: none;
+  position: absolute;
+  content: "≡";
+  text-indent: 0;
+  text-align: center;
+  line-height: 55px;
+  speak: none;
+  width: 100%;
+  top:0;
+  right:0;
+}
+
+.nav-toggle.active::before {
+  font-size: 24px;
+  content:"x";
+}*/
+
+/
 #page_menu h1 {padding-top: 5%;}
 #exit {font-size: 50px; color: black; text-align: left;}
 #menu {color: grey; text-align: center;}
@@ -63,31 +140,6 @@ a:hover {
 @viewport { width: device-width; }
 
 nav li, nav ul{display: none;}
-
-#map-canvas{
-  width:100%;
-  height:500px;
-}
-
-.scrollToTop{
-  width:100px; 
-  height:130px;
-  padding:10px; 
-  text-align:center; 
-  background: whiteSmoke;
-  font-weight: bold;
-  color: #444;
-  text-decoration: none;
-  position:fixed;
-  top:30px;
-  right:20px;
-  display:none;
-  background: url('arrow_up.png') no-repeat 0px 20px;
-}
-
-.scrollToTop:hover{
-  text-decoration:none;
-}
 
 @media screen and (min-width: 320px) {.page {height: 480px;}
 
@@ -117,9 +169,3 @@ nav li, nav ul{display: none;}
   background: transparent;
   }
 }
-
-
-  
-
-
-
