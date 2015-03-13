@@ -1,7 +1,16 @@
-<a id="04"></a>
 <div id="page_contact" class="page">
-    <h1>Get in Touch</h1>
-    <h2>Wellington</h2>
+    <h1>GET IN TOUCH</h1>
+    <div id="contact_option">
+        <button>Wellington</button>
+        <h2>|</h2>
+        <button>Christchurch</button>
+    </div>
+
+
+<!--     <h2>Wellington</h2>
+   
+
+
     <ul>
         <li>strawberry.fare@xtra.co.nz</li>
         <li>Phone: (04) 385 2551</li>
@@ -18,6 +27,6 @@
         <li>19 Bealey Ave, Christchurch</li>
         <li>Mon - Fri 7am - late</li>
         <li>Sat &amp; Sun 8.30am - late</li>
-    </ul>
-    <div id="map-canvas"></div>
+    </ul> -->
+<!--     <div id="map-canvas"></div> -->
 </div>

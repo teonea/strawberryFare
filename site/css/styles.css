@@ -11,125 +11,50 @@ body {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  color: #37302a;
+  color: white;
   background: #fff;
   margin:0 auto;
   font-family: 'Roboto', sans-serif;
+  font-weight: 100;
 }
 
-img {right:22.5%; position: fixed; width:55%; height: auto;}
+img {right:15%; position: absolute; width:70%; height: auto;}
 
-#page_landing {
-  background-image: url(../img/backgrounds/landing-2.jpg);
+a{text-decoration: none}
+
+h1 {width:70%;text-align: center; padding-top: 5%; padding-bottom:5%; margin: 0 auto; font-weight: 700; font-family: 'Roboto';}
+
+button { border: none; background-color: transparent; font-style:italic; font-family: 'Roboto'; font-weight: 500; color: white; display: block; font-size: 30px; text-align: center;}
+
+.page {
   background-size: cover;
-  height: 900px;
-  font-family: 'Roboto', sans-serif;
-}
-
-#page_landing:after, #page_about:after, #page_menu:after. #page_contact:after: {
-  content: '';
-  display: block;
-  clear: both;
-
-}
-
-#page_about {
-  background-image:  url(../img/backgrounds/about.jpg);
-  background-size: cover;
-  height: 900px;
-    font-family: 'Roboto', sans-serif;
-    color: white;
-}
-
-
-#page_about h1 {
-  float:right;
-  padding-top: 610px;
-  padding-right: 16%;
-}
-
-#page_menu
-
-#page_contact
-
-
-.nav-collapse ul {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  display: block;
-  list-style: none;
-}
-
-
-.nav-collapse li {
-  width: 100%;
+/*  color: white;*/
   display: block;
 }
 
-.js .nav-collapse {
-  clip: rect(0 0 0 0);
-  max-height: 0;
-  position: absolute;
-  display: block;
-  overflow: hidden;
-  zoom: 1;
-}
+#page_landing {background-image: url(../img/backgrounds/landing-2.jpg);   height: 520px;}
 
-.nav-collapse.opened {
-  max-height: 9999px;
-}
+#page_about {background-color:white;height: auto; color: grey; text-align: center;}
+
+#page_menu {background-image:  url(../img/backgrounds/menu.jpg);  height: auto; clear: both; text-align: center; padding-bottom: 10%;}
+
+#page_contact {background-image:  url(../img/backgrounds/about.jpg);   height: 520px;}
+
+#page_about  p, #page_about h2 {width: 70%; text-align: justify; margin: 0 auto;}
 
 
-.nav-toggle {
-  position: fixed;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  text-decoration: none;
-  text-indent: -999px;
-  position: relative;
-  overflow: hidden;
-  width: 70px;
-  height: 55px;
-  float: right;
-}
-
-.nav-toggle:before {
-  color: white; /* Edit this to change the icon color */
-  font-family: "responsivenav", sans-serif;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  font-size: 60px;
-  text-transform: none;
-  position: absolute;
-  content: "≡";
-  text-indent: 0;
-  text-align: center;
-  line-height: 55px;
-  speak: none;
-  width: 100%;
-  top:0;
-  right:0;
-}
-
-.nav-toggle.active::before {
-  font-size: 24px;
-  content:"x";
-}
-/* ------------------------------------------
-  RESET
---------------------------------------------- */
-
+#page_menu h1 {padding-top: 5%;}
+#exit {font-size: 50px; color: black; text-align: left;}
+#menu {color: grey; text-align: center;}
 a:active,
 a:hover {
   outline: 0;
 }
+
+#contact_option {display: inline; width: 100%; margin: 0 auto; }
+#page_contact h1 {margin: 0 auto; padding-left: 0%;}
+#contact_option h2 {width: 2%; display: inline; text-align: center;margin: 0 auto; font-size: 45px;}
+#contact_option button {font-weight: 100; font-style: none; font-size: 20px; display: inline;text-align: center;margin: 0 auto;}
 
 @-webkit-viewport { width: device-width; }
 @-moz-viewport { width: device-width; }
@@ -137,111 +62,64 @@ a:hover {
 @-o-viewport { width: device-width; }
 @viewport { width: device-width; }
 
-
-/* ------------------------------------------
-  BASE DEMO STYLES
---------------------------------------------- */
-
-
-
-
-/* ------------------------------------------
-  NAVIGATION STYLES
-  (+ responsive-nav.css file is loaded in the <head>)
---------------------------------------------- */
-
-.fixed {
-  position: fixed;
-  width: 100%;
-  top: 0;
-  left: 0;
-}
-
-.nav-collapse ul {
-  position:fixed;
-}
-
-.nav-collapse,
-.nav-collapse * {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-.nav-collapse,
-.nav-collapse ul, .nav-collapse li{
-  list-style: none;
-  width: 50%;
-  float: left;
-  display: inline-block;
-  font-family: 'Roboto', sans-serif;
-
-}
-
-
-@media screen and (min-width: 40em) {
-
-  img {right:12%; position: fixed; width:30%; height: auto;}
-  .nav-collapse li {
-    width: 25%;
-    *width: 24.9%; /* IE7 Hack */
-    _width: 19%; /* IE6 Hack */
-  }
-
-  .nav-collapse a {
-    color: #fff;
-    text-decoration: none;
-    width: 100%;
-    padding: 0.7em 1em;
-    float: left;
-    margin: 0;
-    padding: 1em;
-    text-align: center;
-    border-bottom: 0;
-  }
-
-  .nav-collapse ul ul a {
-  background: transparent;
-  padding-left: 5%;
-  }
-
-  .nav-collapse ul ul a {
-    display: none;
-  }
-
-  .js .nav-collapse {
-    position: fixed;
-  }
-  .js .nav-collapse.closed {
-    max-height: none;
-  }
-  .nav-toggle {
-    display: none;
-  }
-}
-
+nav li, nav ul{display: none;}
 
 #map-canvas{
-	width:100%;
-	height:500px;
+  width:100%;
+  height:500px;
 }
 
 .scrollToTop{
-	width:100px; 
-	height:130px;
-	padding:10px; 
-	text-align:center; 
-	background: whiteSmoke;
-	font-weight: bold;
-	color: #444;
-	text-decoration: none;
-	position:fixed;
-	top:30px;
-	right:20px;
-	display:none;
-	background: url('arrow_up.png') no-repeat 0px 20px;
+  width:100px; 
+  height:130px;
+  padding:10px; 
+  text-align:center; 
+  background: whiteSmoke;
+  font-weight: bold;
+  color: #444;
+  text-decoration: none;
+  position:fixed;
+  top:30px;
+  right:20px;
+  display:none;
+  background: url('arrow_up.png') no-repeat 0px 20px;
 }
 
 .scrollToTop:hover{
-	text-decoration:none;
+  text-decoration:none;
 }
+
+@media screen and (min-width: 320px) {.page {height: 480px;}
+
+}
+@media screen and (min-width: 360px) {.page {height: 640px;}}
+
+@media screen and (min-width: 760px) {
+  .page {height: 500px;}
+  img {right:12%; position: fixed; width:30%; height: auto; top: 0;}
+
+  nav {width: 53%;float: left; position:fixed; text-align: center;padding-top: 1%;}
+
+  .page {height: 700px;}
+  #page_about {background-image:  url(../img/backgrounds/about.jpg);}
+  nav li, nav ul {
+    display: inline-block;
+    padding-left: 0;
+  }
+
+  nav ul {
+    width: 100%;
+  }
+
+  nav li { padding: 3%; width: 15%;}
+
+  nav ul ul a {
+  background: transparent;
+  }
+}
+
+
+  
+
+
+

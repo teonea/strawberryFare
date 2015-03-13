@@ -1,7 +1,7 @@
 $(document).ready(function(){
-	// //add event listeners
+	//add event listeners
 	$("button").click(function(){
-		//empty out values
+		//empty out value
 		$('#menu').html('');
 		//assign value to a variable
 		var menuType = $(this).val();
@@ -15,10 +15,19 @@ $(document).ready(function(){
 					$(data).each(function(i){
 						$('#menu').append('<h3>'+data[i].name+'</h3><p>'+data[i].description+'</p><p><em>'+data[i].price+'</em></p>');
 					})
+					$('#menu').append('<button value="x" id="exit">x</button>');
 				} else {
 					$('#menu').html('');
 				}
 			}
 		});
+
+
+
+
+
+
+
+
 	});
 });
