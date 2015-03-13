@@ -1,14 +1,11 @@
-<a id="03"></a>
 <div id="page_menu" class="page">
-	<div>
-		<h1>Menu</h1>
-			<button value="Breakfast">Breakfast</button>
-			<button value="Starters">Starters</button>
-			<button value="Mains">Mains</button>
-			<button value="Drinks">Drinks</button>
-			<button value="Desserts">Desserts</button>	
-			<button value="x">x</button>
-		<div id="menu"></div>
-	</div>
+		<h1>MENU</h1>
+			<button value="Breakfast">BREAKFAST </button>
+			<button value="Starters"> STARTERS </button>
+			<button value="Mains"> MAINS </button>
+			<button value="Drinks"> DRINKS </button>
+			<button value="Desserts"> DESSERTS </button>
+			
 </div>
+<div id="menu"></div>
 
