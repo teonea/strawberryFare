@@ -22,12 +22,5 @@ $(document).ready(function(){
 			}
 		});
 
-
-
-
-
-
-
-
 	});
 });

@@ -1,9 +1,9 @@
 <div id="page_contact" class="page">
     <h1>GET IN TOUCH</h1>
     <div id="contact_option">
-        <button>Wellington</button>
+        <button value="wellington">Wellington</button>
         <h2>|</h2>
-        <button>Christchurch</button>
+        <button value="christchurch">Christchurch</button>
     </div>
 
 
